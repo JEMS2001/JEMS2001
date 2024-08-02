@@ -1,4 +1,3 @@
-## Hi there 👋
 
 I'm Johnny, a passionate developer who loves coding and exploring new technologies.
 
