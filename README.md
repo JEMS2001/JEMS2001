@@ -5,7 +5,7 @@ I'm Johnny, a passionate developer who loves coding and exploring new technologi
 ![johnny GitHub stats](https://github-readme-stats.vercel.app/api?username=JEMS2001&show_icons=true&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JEMS2001&color=blue)
-![Contributions](https://badgen.net/badge/Contributions/1000+/green)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEMS2001&layout=compact)
 ## Conhecimento / Knowledge
